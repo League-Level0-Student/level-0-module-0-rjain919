@@ -4,7 +4,7 @@
 // 2. Code a size command to make it big enough for your picture
 
 //    The size command looks like this:      
-  size (100,200);
+  size (500,500);
 //    Try putting different numbers in the parentheses.
 //    See if you can figure out which number is the width, and which is the height
 
@@ -19,7 +19,7 @@
 //    Change the numbers and re-run the program to see what happens.
 
 // 4. Now add a rect command to draw a rectangle.
-
+fill(#03FFAD);
 //    The rect command looks like this:       
 rect(250,250, 100,100);
 
